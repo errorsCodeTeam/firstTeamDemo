@@ -1,0 +1,7 @@
+#include<studio.h>
+main()
+{
+  printf("Hallo git");
+  printf("Hallo JavaSpring");
+  
+}
