@@ -8,4 +8,7 @@ main()
 printf("Hallo git");
 printf("Hallo git");
 printf("Hallo git");
+  printf("Hallo JavaSpring");
+  printf("Hallo JavaSpring");
+  printf("Hallo JavaSpring");
 }
